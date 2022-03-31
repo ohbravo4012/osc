@@ -12,7 +12,7 @@
 	<properties>
 		<java-version>1.8</java-version>
 		<!-- 최신 버전은 4.3.3이지만 호환성을 위해 4.3.0으로 조정함 -->
-		<org.springframework-version>4.3.0.RELEASE</org.springframework-version>
+		<org.springframework-version>5.3.18</org.springframework-version>
 		<org.aspectj-version>1.6.10</org.aspectj-version>
 		<org.slf4j-version>1.7.21</org.slf4j-version>
 	</properties>
